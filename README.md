@@ -19,7 +19,7 @@ TRANSIT: A single-cell computational framework for critical-state-guided, transi
 
 ---
 
-### 📖 Quick Start Tutorial: The ASTRAEA Workflow
+### 📖 Quick Start Tutorial: The TRANSIT Workflow
 
 🚧 **Under Construction **
 
