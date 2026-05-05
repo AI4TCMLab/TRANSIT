@@ -4,6 +4,7 @@ TRANSIT: A single-cell computational framework for critical-state-guided, transi
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![R version](https://img.shields.io/badge/R-%3E%3D%204.1.0-blue.svg)]()
 
+[Uploading Figure1 v2.tif…]()
 
 > **TRANSIT** is a single-cell transcriptomics-driven computational framework designed to capture disease critical states, decouple antagonistic dynamic networks, and prioritize stage-directed pharmacological interventions. Currently, precision medicine heavily relies on static targets, often overlooking the profound temporal dynamics of disease progression. 
 
